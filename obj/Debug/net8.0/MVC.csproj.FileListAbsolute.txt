@@ -134,3 +134,4 @@ D:\BootCamp Formação DotNet Developer\MVC\bin\Debug\net8.0\runtimes\win\lib\ne
 D:\BootCamp Formação DotNet Developer\MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\BootCamp Formação DotNet Developer\MVC\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\BootCamp Formação DotNet Developer\MVC\obj\Debug\net8.0\MVC.csproj.Up2Date
+D:\BootCamp Formação DotNet Developer\MVC\obj\Debug\net8.0\MVC.sourcelink.json
